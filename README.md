@@ -1,6 +1,6 @@
 # seckill
 一个整合SSM框架的高并发和商品秒杀项目,学习目前较流行的Java框架组合实现高并发秒杀API
-
+test 
 ## 项目的来源
 项目的来源于国内IT公开课平台[慕课网](http://www.imooc.com),慕课网上资源有质量没的说,很适合学习一些技术的基础,这个项目是由四个系列的课程组成的,流程分为几个流程,很基础地教你接触到一个相对有技术含量的项目
  - Java高并发秒杀API之业务分析与DAO层
@@ -1397,7 +1397,7 @@ public class SeckillServiceImplTest {
             System.out.println(execution.getStateInfo());
         }
     }
-
+ 
 
 }
 ```
